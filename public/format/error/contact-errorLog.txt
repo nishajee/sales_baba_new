@@ -1,0 +1,11 @@
+Sales BaBa
+----------------------------------------------------------------------------------------------------------------------------------
+DATE: 10/08/2020 01:21 PM
+TOTAL  LEADS RECORD  COUNT: 0
+TOTAL New Leads COUNT: 0
+TOTAL Old Leads COUNT: 3
+Leads Already Exist in List
+This Email is Wrong vcc@gmail.com, This Phone no. is Wrong 74185296000
+This Email is Wrong abc@gmail.com, This Phone no. is Wrong 74185296385
+This Email is Wrong x444yz@gmail.com, This Phone no. is Wrong 7412582222
+----------------------------------------------------------------------------------------------------------------------------------

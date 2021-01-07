@@ -1,0 +1,12 @@
+Sales BaBa
+----------------------------------------------------------------------------------------------------------------------------------
+DATE: 20/08/2020 12:19 PM
+TOTAL  LEADS RECORD  COUNT: 0
+TOTAL New Leads COUNT: 0
+TOTAL Old Leads COUNT: 4
+Leads Already Exist in List
+On row 2 Phone No.: 74185296000, is a Long .
+On row 3 Phone No.: 74185296385, is a Long .
+On row 4 State name. : jahrkahand, is not available in our database .
+On row 4 City name. : adityapur, is not available in our database.
+----------------------------------------------------------------------------------------------------------------------------------
